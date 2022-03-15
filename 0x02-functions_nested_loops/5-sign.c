@@ -1,5 +1,3 @@
-able File  29 lines (29 sloc)  409 Bytes
-   
 #include "main.h"
 /**
 * print_sign - Determines if the input number
