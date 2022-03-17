@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *_isdigit - check whether digital.
  *@c: number input
