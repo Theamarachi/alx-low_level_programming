@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * print_most_numbers - print numbers [0..9] except 0 and 2 elements.
 *
