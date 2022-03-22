@@ -2,8 +2,8 @@
 
 /**
  * reset_to_98 - this functions takes a pointer to an int
- * @n: puntero
- * Return: (0)
+ * @n: input variable
+ * Return: Always 0.
  */
 void reset_to_98(int *n)
 {
